@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1539151607 source:c:\users\dell\desktop\bounce vidhi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1539151607 source:c:\users\dell\desktop\games\bounce game\bounce vidhi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1539151607 source:c:\users\dell\desktop\ds\games\bounce game\bounce vidhi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
